@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ### DevOps
 
-<img src="https://img.icons8.com/color/35/jenkins.png" /> <img src="https://img.icons8.com/color/35/kubernetes.png" /> <img src="https://img.icons8.com/external-bearicons-flat-bearicons/35/external-Helm-navigation-and-maps-bearicons-flat-bearicons.png" alt="helm"/> <img src="https://img.icons8.com/fluency/35/terraform.png"/> <img src="https://img.icons8.com/fluency/512/docker.png"/>
+<img src="https://img.icons8.com/color/35/jenkins.png" /> <img src="https://img.icons8.com/color/35/kubernetes.png" /> <img src="https://img.icons8.com/external-bearicons-flat-bearicons/35/external-Helm-navigation-and-maps-bearicons-flat-bearicons.png" alt="helm"/> <img src="https://img.icons8.com/fluency/35/terraform.png"/> <img src="https://img.icons8.com/fluency/35/docker.png"/> <img src="https://img.icons8.com/color/35/gitlab.png"/>
 
 ### Streamings
 
