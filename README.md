@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ### Streamings
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png" width="25"/> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/rabbitmq-logo.png" width="40"/>
+<img src="http://cdn.onlinewebfonts.com/svg/img_465060.png" width="25"/> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/rabbitmq-logo.png" width="40"/>
 
 ### SQL
 
@@ -55,6 +55,9 @@ Here are some ideas to get you started:
 ### Monitoring
 
 <img src="https://img.icons8.com/fluency/35/prometheus-app.png"/> <img src="https://img.icons8.com/color/35/grafana.png"/>
+
+### Tools
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" width="30"/> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_gradle_icon_130462.png" width="35"/>
 
 
 ## 📈 Stats
