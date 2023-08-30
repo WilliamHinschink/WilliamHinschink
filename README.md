@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ### Streamings
 
-<img src="http://cdn.onlinewebfonts.com/svg/img_465060.png" width="25"/> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/rabbitmq-logo.png" width="40"/>
+<img src="https://github.com/WilliamHinschink/WilliamHinschink/assets/18005550/1c7382ea-9430-487c-9a6b-d5a64877ba76" width="35"/> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/rabbitmq-logo.png" width="40"/>
 
 ### SQL
 
