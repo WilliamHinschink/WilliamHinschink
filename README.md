@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ### Languages
 
-<img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png"/> <img src="https://img.icons8.com/color/35/typescript--v2.png"/> <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/35/000000/css3.png"/>
+<img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png"/> <img src="https://img.icons8.com/color/35/typescript--v2.png"/> <img src="https://img.icons8.com/color/35/golang.png"/>
 
 ### I Love it
 
-<img src="https://img.icons8.com/color/35/golang.png"/> <img src="https://img.icons8.com/color/35/kotlin.png"/> <img src="https://img.icons8.com/color/35/python.png"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1200px-Groovy-logo.svg.png" width="45"/>
+<img src="https://img.icons8.com/color/35/kotlin.png"/> <img src="https://img.icons8.com/color/35/python.png"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1200px-Groovy-logo.svg.png" width="45"/>
 
 ### Frameworks and Libraries
 
