@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 🚀 About Me
 
-🎓 I'm William Hinschink, a **Full-Stack Developer** 👨‍💻. I'm also degree in **Computer Science**.🏅
+🎓 I'm William Hinschink, a **Full-Stack Developer** 👨‍💻. I'm also degree in **Computer Science**🏅.
 
 🥁 Outside the world of tech, I enjoy pushing myself to develop *new skills*. My hobbies range from **drums** and I *collect records*.
 
@@ -24,25 +24,25 @@ Here are some ideas to get you started:
 
 ## 🛠️ Skills
 
-### Languages
+### My Expert Languages
 
-<img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png"/> <img src="https://img.icons8.com/color/35/typescript--v2.png"/> <img src="https://img.icons8.com/color/35/golang.png"/>
+<img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png" title="Java"/> <img src="https://img.icons8.com/color/35/typescript--v2.png" title="TypeScript"/> <img src="https://img.icons8.com/color/35/golang.png" title="Go Lang"/>
 
-### I Love it
+### I Love it too
 
-<img src="https://img.icons8.com/color/35/kotlin.png"/> <img src="https://img.icons8.com/color/35/python.png"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1200px-Groovy-logo.svg.png" width="45"/>
+<img src="https://img.icons8.com/color/35/kotlin.png" title="Kotlin"/> <img src="https://img.icons8.com/color/35/python.png" title="Python"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1200px-Groovy-logo.svg.png" width="45" title="Groovy"/>
 
 ### Frameworks and Libraries
 
-<img src="https://img.icons8.com/color/35/spring-logo.png"/> <img src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png" width="35"/> <img src="https://img.icons8.com/color/35/react-native.png"/> <img src="https://img.icons8.com/fluency/35/flutter.png"/> <img src="https://img.icons8.com/color/35/material-ui.png"/> <img src="https://img.icons8.com/fluency/35/node-js.png"/>
+<img src="https://img.icons8.com/color/35/spring-logo.png" title="Spring"/> <img src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png" width="35" title="Quarkus"/> <img src="https://img.icons8.com/color/35/react-native.png" title="React JS"/> <img src="https://img.icons8.com/fluency/35/flutter.png" title="Flutter"/> <img src="https://img.icons8.com/color/35/material-ui.png" title="MUI"/> <img src="https://img.icons8.com/fluency/35/node-js.png" title="Node.JS"/>
 
 ### DevOps
 
-<img src="https://img.icons8.com/color/35/jenkins.png" /> <img src="https://img.icons8.com/color/35/kubernetes.png" /> <img src="https://img.icons8.com/external-bearicons-flat-bearicons/35/external-Helm-navigation-and-maps-bearicons-flat-bearicons.png" alt="helm"/> <img src="https://img.icons8.com/fluency/35/terraform.png"/> <img src="https://img.icons8.com/fluency/35/docker.png"/> <img src="https://img.icons8.com/color/35/gitlab.png"/>
+<img src="https://img.icons8.com/color/35/jenkins.png" title="Jenkins" /> <img src="https://img.icons8.com/color/35/kubernetes.png" title="Kubernetes"/> <img src="https://img.icons8.com/external-bearicons-flat-bearicons/35/external-Helm-navigation-and-maps-bearicons-flat-bearicons.png" alt="helm" title="Helm"/> <img src="https://img.icons8.com/fluency/35/terraform.png" title="Terraform"/> <img src="https://img.icons8.com/fluency/35/docker.png" title="Docker"/> <img src="https://img.icons8.com/color/35/gitlab.png" title="GitLab"/>
 
 ### Streamings
 
-<img src="https://github.com/WilliamHinschink/WilliamHinschink/assets/18005550/1c7382ea-9430-487c-9a6b-d5a64877ba76" width="35"/> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/rabbitmq-logo.png" width="40"/>
+<img src="https://github.com/WilliamHinschink/WilliamHinschink/assets/18005550/1c7382ea-9430-487c-9a6b-d5a64877ba76" width="35" title="Kafka"/> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/rabbitmq-logo.png" width="40" title="RabbitMQ"/>
 
 ### SQL
 
