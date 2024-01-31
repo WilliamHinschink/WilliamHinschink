@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 
 🎓 I'm William Hinschink, a **Full-Stack Developer** 👨‍💻. I'm also degree in **Computer Science**🏅.
 
-🥁 Outside the world of tech, I enjoy pushing myself to develop *new skills*. My hobbies range from **drums** and I *collect records*.
+🥁 Outside the world of tech, I enjoy pushing myself to develop *new skills*. My hobbies range from **drums** and I *collect records* 🎧.
 
-✈️ I love **traveling** too.
+✈️ I love **traveling** 🏝 and **games** 🎮 too.
+
+📱💻 Faço programa :bug: Crio Bugs 🛠 Pedreiro de Software
 
 ## 🛠️ Skills
 
